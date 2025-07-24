@@ -16,7 +16,7 @@
 <img width="900" height="550" alt="Screenshot 2025-07-24 110501" src="https://github.com/user-attachments/assets/07a8bf97-f669-40e3-a9b4-41a042e919a2" />
 
 ### Scheduling Eventbridge 
-<img width="900" height="550" alt="sendmonthly" src="https://github.com/user-attachments/assets/e53b6740-0e8d-4b0a-86b1-c714a8d33032" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/d4c8c55b-b83b-4730-8f8d-2413b490387b" />
 
 ### Newsletter successfully arrived in email
 <img width="900" height="550" alt="Screenshot 2025-07-24 111130" src="https://github.com/user-attachments/assets/95ba0c46-d3d4-4091-9d81-0748c7f8916e" />
