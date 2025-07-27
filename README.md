@@ -20,7 +20,8 @@
 <img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/d4c8c55b-b83b-4730-8f8d-2413b490387b" />
 
 ## Newsletter successfully arrived in email
-<img width="1409" height="719" alt="image" src="https://github.com/user-attachments/assets/be3e6e2f-79be-4018-973e-1d339d5386a6" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/018f6ccc-0c91-450d-9a33-973cec7a1dc2" />
+
 
 
 
